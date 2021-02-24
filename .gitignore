@@ -1,0 +1,9 @@
+/packages
+/Common/obj
+/Common/bin
+/Common/Common.csproj.user
+/Md5PwdTool/bin
+/Md5PwdTool/obj
+/Md5PwdTool/Md5PwdTool.csproj.user
+/.vs/Md5PwdTool/v14/.suo
+/Md5PwdTool/.vs/Md5PwdTool/v14/.suo
